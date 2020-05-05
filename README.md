@@ -1,1 +1,1 @@
-: # Covid-19: Fight Fake News 
+# Covid-19: Fight Fake News 
